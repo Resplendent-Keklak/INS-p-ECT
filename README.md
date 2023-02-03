@@ -1,5 +1,5 @@
 # INS-p-ECT
-Began 2023:02:02 UTC by Erica Keklak.
+Began 2023:02:02 UTC by E. Keklak.
 ## Premise
 An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based on its appearance, behaviors, and sounds <i>and</i> gives them an option to publicly upload video/audio of an arthropod to permit an AI to try to identify it for the client.
 ## Programming and Database Management Languages
