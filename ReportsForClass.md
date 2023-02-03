@@ -6,4 +6,5 @@ All the pages directed from the links should be universally public, but if their
 ## Minor Content
 &nbsp;&bull;&nbsp;NONE!
 ## Templates
-&nbsp;&bull;&nbsp;NONE!
+&nbsp;&bull;&nbsp;[Report Presentation](https://docs.google.com/presentation/d/1eEVeycVWKrBAQgL0WUMoiQDAkUaAolnJkz_Jvci9ZW4/edit?usp=sharing)
+&nbsp;&bull;&nbsp;[Report Script](https://docs.google.com/document/d/13lel2so_XTvRMwCl4t8IqgUd6Wx5zwAOjnSIEY_Y5xQ/edit?usp=sharing)
