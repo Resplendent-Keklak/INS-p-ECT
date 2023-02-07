@@ -16,11 +16,12 @@ An upcoming arthropod identification service made for a school project. The serv
 ***WIP***
 ## Usage
 ***WIP***
-## Readmap
+## Roadmap
  - [ ] make README.md look decent
  - [ ] obtain web host for project
  - [ ] initially create home page
  - [ ] etc.
+
 ***WIP***
 ## Contributing
 ***WIP***
