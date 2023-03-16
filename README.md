@@ -4,21 +4,17 @@ Began 2023:02:02 UTC by E. Keklak.
 ## About
 An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based on its appearance, behaviors, and sounds <i>and</i> gives them an option to publicly upload video/audio of an arthropod to permit an AI to try to identify it for the client.
 ### Built with
-* **[JQuery](http://jquery.com)** (TENTATIVE)
-* **[React](https://reactjs.org)** (TENTATIVE)
-* **[Angular](https://angular.io)** (TENTATIVE)
-* **[Node.js](https://nodejs.org/en/)** (TENTATIVE)
-* **[Ember.js](https://emberjs.com)** (TENTATIVE)
-* **[D3.js](https://d3js.org)** (TENTATIVE)
+* **[Node.js](https://nodejs.org/en/)**
+* **[D3.js](https://d3js.org)**
 
 ***WIP***
 ## Getting Started
 ### Prerequisites
-* **Python 3.11.0**
-* **R (version not decided)**
-* **JavaScript (version not decided)**
-* **SQL (version not decided)**
-* **CSS (version not decided)**
+* **Python 3.11.0
+* **R
+* **JavaScript
+* **SQL
+* **CSS
 
 ***WIP***
 ### Installation
@@ -28,13 +24,17 @@ This project is not currently useful.
 
 ***WIP***
 ## Roadmap
- - [ ] finish skeleton of README.md
- - [ ] make README.md look decent
+ - [X] finish skeleton of README.md
+ - [X] make README.md look decent
  - [ ] obtain working web host for project
  - [ ] test CSS capabilities of host
  - [ ] test back-end compatibilities
  - [ ] initial creation of home page
- - [ ] etc.
+ - [ ] initial creation of additional main pages
+ - [ ] initial creation of all policy pages
+ - [ ] edit the front-end of main page and other important pages
+ - [ ] import categorization form to site
+ - [ ] import downloaded taxonomy data (CITE THE DATA WHEN YOU DO IT)
 
 ***WIP***
 ## Contributing
