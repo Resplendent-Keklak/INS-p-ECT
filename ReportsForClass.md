@@ -1,10 +1,17 @@
 # Reports for Class
 This is a directory of external links my proposal, reports, report scripts, poster, and cumulative project journal for the class to view. 
-All the pages directed from the links should be universally public, but if their content has been privated, contact ericakeklak@gmail.com.
-## Major Content
-&nbsp;&bull;&nbsp;NONE!
-## Minor Content
-&nbsp;&bull;&nbsp;NONE!
+All the pages directed from the links should be universally public, but if their content has been privated and you would like to have access to them, please contact ericakeklak@gmail.com. Please do not ask for access to any of the documents listed in `Self-Scheduling`, though, because that was intended only for me.
+## Major Releases
+&nbsp;&bull;&nbsp;[Original Pitch Presentation](https://docs.google.com/presentation/d/1XwmF-wfw5lO2OQ97dD5Ja-o9Zqptj55E_C2OJ3L3R9s/edit?usp=sharing)<br>
+&nbsp;&bull;&nbsp;[Very First Project Proposal](https://docs.google.com/document/d/1Tf4aG833r5h8BU_jGwDy2Gcupn5NP41Rjr-byIkAZzA/edit?usp=sharing)<br>
+&nbsp;&bull;&nbsp;[Updated Project Scope](https://docs.google.com/document/d/1sO1E5g10IYjJN6yidoiYTJQkIbIZ2lfXQ5zoHVJyzz8/edit?usp=sharing)<br>
+## Twice-Monthly Reports
+&nbsp;&bull;&nbsp;[Report 1: 2 March 2023](https://docs.google.com/document/d/1_ioVwhudvEZPjbaHPbN16m9AfO8qP7DLoZaVWngQplY/edit?usp=sharing)<br>
+&nbsp;&bull;&nbsp;[Report 2: 17 March 2023](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Self-Scheduling
+&nbsp;&bull;&nbsp;[Original Schedule](https://docs.google.com/spreadsheets/d/10hrLDj0ZJSU7CyWQ_NZh4XLDhwUoRHhIOUahrinpjRM/edit?usp=sharing)<br>
+&nbsp;&bull;&nbsp;[Schedule as of 2 March 2023](https://docs.google.com/spreadsheets/u/1/d/1iZHt162iO18P1MyBONAWaHgiztigFdxiauKlD4q6s-s/edit?usp=sharing)<br>
+&nbsp;&bull;&nbsp;[Schedule as of 17 March 2023](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Templates
 &nbsp;&bull;&nbsp;[Report Presentation](https://docs.google.com/presentation/d/1eEVeycVWKrBAQgL0WUMoiQDAkUaAolnJkz_Jvci9ZW4/edit?usp=sharing)<br>
 &nbsp;&bull;&nbsp;[Report Script](https://docs.google.com/document/d/13lel2so_XTvRMwCl4t8IqgUd6Wx5zwAOjnSIEY_Y5xQ/edit?usp=sharing)
