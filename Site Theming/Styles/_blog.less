@@ -1,0 +1,147 @@
+#blogTable {
+  .blog-post {
+    .blog-header {
+      h2.blog-title {
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 10px !important;
+      }
+    }
+
+    .blog-separator{
+      margin: 0 auto 30px;
+      border: none;
+    }
+  }
+
+  .blog-sidebar {
+    width: 250px;
+
+    h2 {
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 14px;
+    }
+  }
+
+  #commentArea {
+    #commentAreaTitle,
+    #commentReplyTitle,
+    .blogCommentText p,
+    .blog-sidebar h2 {
+      padding: 0;
+      font-family: inherit;
+    }
+  }
+
+  .blogCommentWrap {
+    padding-top: 20px;
+    border-top: 1px solid fade(@fill, 40%);
+    background: none;
+
+    .blogCommentAuthor,
+    .blogCommentHeading,
+    .blogCommentHeadingInner {
+      background: none !important;
+    }
+
+    .blogCommentAuthor {
+      margin-bottom: 10px;
+
+      span.name,
+      span.email {
+        color: @fill !important;
+        float: none;
+        line-height: 1;
+      }
+    }
+
+    .blogCommentHeading {
+      padding: 0;
+      margin-bottom: 20px;
+
+      .blogCommentHeadingInner {
+        height: auto;
+      }
+
+      .blogCommentAuthor,
+      .blogCommentDate {
+        float: none;
+        text-align: left;
+        height: auto;
+        font-family: @font2;
+        font-weight: normal;
+        line-height: 1;
+        letter-spacing: 0.03em;
+        padding: 0;
+      }
+
+      .blogCommentAuthor {
+        text-transform: uppercase;
+      }
+
+      .blogCommentDate {
+        color: #333;
+      }
+    }
+
+    .blogCommentText {
+      padding: 0;
+
+      p {
+        color: @fill;
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+.blogCommentReplyWrapper iframe {
+  height: 560px !important;
+}
+
+#commentPostDiv {
+  .field input[type=text],
+  .field textarea {
+    height: auto;
+    padding: 8px 12px;
+    background: transparent;
+    box-sizing: border-box;
+    .transition(all 300ms ease);
+
+    &:focus {
+      background-color: @shade;
+      border: 1px solid fade(@fill, 40%);
+    }
+  }
+}
+
+.blogCommentSubreplyWrapper div.iframeWrapper {
+  background: none;
+  border: none;
+}
+
+.blog-button {
+  height: auto;
+  padding: 10px 20px;
+  background-image: none;
+  background-color: fade(@fill, 60%);
+  color: @bg;
+  font-family: @font2;
+  font-size: 12px;
+  line-height: 1;
+  text-transform: uppercase;
+  .transition(all 300ms ease);
+
+  &:hover {
+    background-color: fade(@fill, 20%);
+  }
+
+  span {
+    background: none;
+  }
+}
