@@ -1,0 +1,24 @@
+# download mysql file
+curl -o /etc/mysql/database.sql https://gist.githubusercontent.com/resplendent-keklak/###ADD THE SHA HERE###/raw
+# store database name
+database="website"
+# store table name
+table="records"
+# change "placeholder" to unique username
+user="placeholder"
+# change "placeholder" to desired password
+password="placeholder"
+# add database to mysql file
+sudo sed "s|#database_placeholder#|$database|g" -i /etc/mysql/database.sql
+# add table to mysql file
+sudo sed "s|#table_placeholder#|$table|g" -i /etc/mysql/database.sql
+# add user to mysql file
+sudo sed "s|#user_placeholder#|$user|g" -i /etc/mysql/database.sql
+# add password to mysql file
+sudo sed "s|#password_placeholder#|$password|g" -i /etc/mysql/database.sql
+# open mysql as root user
+sudo mysql -u root -p
+# run mysql file
+source /etc/mysql/database.sql
+# exit mysql
+exit
