@@ -1,0 +1,18 @@
+#Works only after you set up the static test website
+
+# change "placeholder" to database name from earlier
+database="placeholder"
+# change "placeholder" to ip address of database
+host="placeholder"
+# change "placeholder" to database username from earlier
+user="placeholder"
+# change "placeholder" to database password from earlier
+password="placeholder"
+# add database to configuration file
+sudo sed "s|#database_placeholder#|$database|g" -i /var/www/html/includes/configuration.php
+# add host to configuration file
+sudo sed "s|#host_placeholder#|$host|g" -i /var/www/html/includes/configuration.php
+# add username to configuration file
+sudo sed "s|#user_placeholder#|$username|g" -i /var/www/html/includes/configuration.php
+# add password to configuration file
+sudo sed "s|#password_placeholder#|$password|g" -i /var/www/html/includes/configuration.php
