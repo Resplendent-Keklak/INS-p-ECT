@@ -2,7 +2,7 @@
 Began 2023:02:02 UTC by E. Keklak.
 
 ## About
-An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based on its appearance, behaviors, and sounds <i>and</i> gives them an option to publicly upload visuals of an arthropod to permit an AI to try to identify it for the client.
+An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based on its appearance, behaviors, and known taxonomy to try to identify it for the client. There's no guarantee the algorithm is accurate, but it should work *in theory*.
 ### Built with
 * **[Node.js](https://nodejs.org/en/)**
 * **[D3.js](https://d3js.org)**
@@ -11,30 +11,13 @@ An upcoming arthropod identification service made for a school project. The serv
 ## Getting Started
 ### Prerequisites
 * **Python** (3.9.0 to 3.11.0)
-* **JavaScript** (multiple versions)
-* **SQL** (unknown version)
+* **JavaScript**
+* **SQL** (for the preparation of files uploaded to the website; the site itself is *not* dependent upon the database)
 
-***WIP***
 ### Installation
 This product should not be installed unless someone wishes to improve the programming stored within this repository; in that case, see the ***Contributing*** section. Instead, go to ***website URL*** and the site should be available. For more information about usage, the section below may be beneficial to read.
 ## Usage
 This project is not currently useful.
-
-***WIP***
-## Roadmap
- - [X] finish skeleton of README.md
- - [X] make README.md look decent
- - [x] obtain working web host for project
- - [x] test CSS capabilities of host
- - [x] test back-end compatibilities
- - [x] initial creation of home page
- - [x] initial creation of additional main pages
- - [x] initial creation of all policy pages
- - [x] edit the front-end of main page and other important pages
- - [ ] import categorization form to site
- - [ ] import downloaded taxonomy data (CITE THE DATA WHEN YOU DO IT)
-
-***WIP***
 ## Contributing
 If you have a suggestion to improve INSpECT, please fork the repository and create a pull request. You can also open an issue with the tag "enhancement". Thank yo ufor considering helping out!
 
