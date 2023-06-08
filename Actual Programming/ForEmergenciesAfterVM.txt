@@ -9,16 +9,16 @@ user="placeholder"
 # change "placeholder" to desired password
 password="placeholder"
 # add database to mysql file
-sudo sed "s|#database_placeholder#|$database|g" -i /etc/mysql/database.sql
+sudo sed "s|#database_placeholder#|$database|g" -i /etc/mysql/TestPasteToAvoidActualDatabaseTheft.sql
 # add table to mysql file
-sudo sed "s|#table_placeholder#|$table|g" -i /etc/mysql/database.sql
+sudo sed "s|#table_placeholder#|$table|g" -i /etc/mysql/TestPasteToAvoidActualDatabaseTheft.sql
 # add user to mysql file
-sudo sed "s|#user_placeholder#|$user|g" -i /etc/mysql/database.sql
+sudo sed "s|#user_placeholder#|$user|g" -i /etc/mysql/TestPasteToAvoidActualDatabaseTheft.sql
 # add password to mysql file
-sudo sed "s|#password_placeholder#|$password|g" -i /etc/mysql/database.sql
+sudo sed "s|#password_placeholder#|$password|g" -i /etc/mysql/TestPasteToAvoidActualDatabaseTheft.sql
 # open mysql as root user
 sudo mysql -u root -p
 # run mysql file
-source /etc/mysql/database.sql
+source /etc/mysql/TestPasteToAvoidActualDatabaseTheft.sql
 # exit mysql
 exit
