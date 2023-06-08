@@ -17,7 +17,7 @@ An upcoming arthropod identification service made for a school project. The serv
 ### Installation
 This product should not be installed unless someone wishes to improve the programming stored within this repository; in that case, see the ***Contributing*** section. Instead, go to ***website URL*** and the site should be available. For more information about usage, the section below may be beneficial to read.
 ## Usage
-This project is not currently useful.
+This project is not currently useful. If forked, make sure to fix `.gitignore` to your liking because I made sure I could see all JS warnings while suppressing all warnings from PyCharm. If you're fine with these settings, though, leave that file alone.
 ## Contributing
 If you have a suggestion to improve INSpECT, please fork the repository and create a pull request. You can also open an issue with the tag "enhancement". Thank yo ufor considering helping out!
 
