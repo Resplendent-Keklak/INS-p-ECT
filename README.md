@@ -39,13 +39,14 @@ If you have a suggestion to improve INSpECT, please fork the repository and crea
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 ## License
-Distributed under the GNU Affero General Public License. See `LICENSE.txt` for more information.
+Distributed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html). See `LICENSE.txt` for more information.
 ## Contact
 E. Keklak - ericakeklak@gmail.com<br><br>INSpECT: [https://github.com/Resplendent-Keklak/INS-p-ECT](https://github.com/Resplendent-Keklak/INS-p-ECT)
 ## Acknowledgements
 The following people were very, very helpful with my project:
  - Dr. Bixler: thank you so much for being there for us capstone students as you assisted us in managing our rates of progress, helped us with general questions, and provided us the motivation to keep working through the most difficult parts of our projects.
  - Mr. Gery: thank you for going out of your way with helping us install environments and softwares for our school devices. Without you, we wouldn't have been able to make as much progress...if any at all.
+
 I'd also like to acknowledge other resources that guided the development of this project:
  - [Best README Template](https://github.com/othneildrew/Best-README-Template)
  - [Finding Good JS Frameworks, Libraries, and Add-Ons](https://newrelic.com/blog/best-practices/best-javascript-libraries-frameworks)
