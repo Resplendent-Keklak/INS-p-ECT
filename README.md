@@ -4,7 +4,7 @@
 > Dr. Bixler\
 > Computer Science Senior Capstone\
 > Began 2023:02:02\
-> First Release TBA\
+> First Release TBA
 
 Go on, check out the [new site](https://inspect.miraheze.org/wiki/Main_Page) hosted on Miraheze *and* the [old site](https://ins-p-ect.weebly.com) hosted on Weebly.
 
