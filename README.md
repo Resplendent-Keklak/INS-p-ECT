@@ -9,14 +9,16 @@
 Go on, check out the [new site](https://inspect.miraheze.org/wiki/Main_Page) hosted on Miraheze *and* the [old site](https://ins-p-ect.weebly.com) hosted on Weebly.
 
 ## About
-An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based on its appearance, behaviors, and known taxonomy to try to identify it for the client. There's no guarantee the algorithm is accurate, but it should work *in theory*.
+An upcoming arthropod identification service made for a school project. The service will be a PC- and mobile-access website that sources information from a database to help clients more easily identify an arthropod they find based strictly on known taxonomy to try to identify it for the client. There's no guarantee the algorithm is accurate, but it should work *in theory*.
 ### Built with
 * **Python** (3.9.0 to 3.11.0) (+**Pandas**)
 * **JavaScript** (+**[Node.js](https://nodejs.org/en/)**) (+**[D3.js](https://d3js.org)**)
 * **[MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)** (1.36 to 1.42) (+**DynamicPageList3**)
+* **Lua** (Miraheze only)
 * **PHP7** (Miraheze only)
 * **Less** (Weebly only)
 * **CSS3** (both sites)
+* **HTML5** (both sites)
 
 ## Getting Started
 ### Prerequisites
