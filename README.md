@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # INS-p-ECT
-> E. Keklak\
+> Mars Keklak\
 > Dr. Bixler\
 > Computer Science Senior Capstone\
 > Began 2023:02:02\
@@ -41,7 +41,7 @@ If you have a suggestion to improve INSpECT, please fork the repository and crea
 ## License
 Distributed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html). See `LICENSE.txt` for more information.
 ## Contact
-E. Keklak - ericakeklak@gmail.com<br><br>INSpECT: [https://github.com/Resplendent-Keklak/INS-p-ECT](https://github.com/Resplendent-Keklak/INS-p-ECT)
+Mars Keklak - marskeklak@gmail.com<br><br>INSpECT: [https://github.com/Resplendent-Keklak/INS-p-ECT](https://github.com/Resplendent-Keklak/INS-p-ECT)
 ## Acknowledgements
 The following people were very, very helpful with my project:
  - Dr. Bixler: thank you so much for being there for us capstone students as you assisted us in managing our rates of progress, helped us with general questions, and provided us the motivation to keep working through the most difficult parts of our projects.
